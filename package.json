@@ -1,0 +1,21 @@
+{
+  "name": "sobms",
+  "version": "1.0.0",
+  "description": "Enterprise Order-to-Cash backend built on SAP CAP (CDS + Node.js): Customer credit-limit\r enforcement, Sales Order approval workflow, partial Delivery tracking, and automated\r Invoice generation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cds":"serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vamsi388/sales_order_billing_management_system-order-to-cash-capm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vamsi388/sales_order_billing_management_system-order-to-cash-capm/issues"
+  },
+  "homepage": "https://github.com/vamsi388/sales_order_billing_management_system-order-to-cash-capm#readme"
+}
